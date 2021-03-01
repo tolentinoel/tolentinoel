@@ -8,7 +8,7 @@ I find Software Engineering exciting because it aligns with user experience and 
 
 - 🔭 I’m currently working on ...
 
-- 🌱 I’m currently pursuing to attain a deeper knowledge about webpage responsiveness & accessibility.
+- 🌱 I’m currently pursuing attaining a deeper knowledge about webpage responsiveness & accessibility.
 
 - 📫 How to reach me: 
 
