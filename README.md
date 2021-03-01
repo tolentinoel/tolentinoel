@@ -5,7 +5,7 @@ I am a Full stack Software Engineer based from Silicon Valley with a Bachelor of
 Having that design and hospitality background, I find Software Engineering interesting because it aligns with user experience and creativity. I love building and seeing projects come to life. Front-end Development is my fave! I am looking forward in producing creative and interesting products that will serve as a great contribution to the community.
 
 - :bulb: Fun fact:
- I am a percussion aficionado. My favorite instruments are drums :drums: and :guitar:.
+ I am a percussion aficionado. My favorite instruments are drums 🥁 and :guitar:.
  
 - 🔭 I’m currently working on ...
 
