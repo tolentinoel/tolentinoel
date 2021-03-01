@@ -4,10 +4,16 @@ I am a Full stack Software Engineer based from Silicon Valley with a Bachelor of
 
 I find Software Engineering exciting because it aligns with user experience and creativity. I love building and seeing projects come to life. Front-end Development is my fave! I am looking forward in building interesting and amazing products that serve a great deal of purpose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- ⚡ Fun fact:
 
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on ...
+
+- 🌱 I’m currently pursuing to attain a deeper knowledge about webpage responsiveness & accessibility.
+
+- 📫 How to reach me: 
+
+
 - 😄 Pronouns: She/They
-- ⚡ Fun fact: 
+
+ 
 
