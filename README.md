@@ -19,7 +19,7 @@ Having that design and hospitality background, I find Software Engineering inter
 
 - 😄 Pronouns: She/They
 
- ### Projects
+### Projects
 
 #### SplashGlam | Dec 2020 | [Repo](https://github.com/tolentinoel/splashglam_frontend) | [Demo](https://splashglam.herokuapp.com/)
 
