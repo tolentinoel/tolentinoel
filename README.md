@@ -4,12 +4,9 @@ I am a Full stack Software Engineer based from Silicon Valley with a Bachelor of
 
 Having that design and hospitality background, I find Software Engineering interesting because it aligns with user experience and creativity. I love building and seeing projects come to life. Front-end Development is my fave! I am looking forward in producing creative and interesting products that will serve as a great contribution to the community.
 
-- :bulb: Fun fact:
- I am a percussion aficionado. My favorite instruments are drums 🥁 and :guitar:.
- 
 - 🔭 I’m currently working on my portfolio.
-
-- 🌱 I’m currently pursuing attaining a deeper knowledge about webpage responsiveness & accessibility.
+- 🌱 I’m trying to learn more about ReactJS, React Hooks, Redux and responsive web design.
+- :bulb: Fun fact: I am a percussion aficionado. My favorite instruments are drums 🥁 and :guitar:.
 
 - 📫 How to reach me: 
 :e-mail: tolentino.el@gmail.com
@@ -21,18 +18,18 @@ Having that design and hospitality background, I find Software Engineering inter
 
 ### Projects
 
-#### SplashGlam | Dec 2020 | [Repo](https://github.com/tolentinoel/splashglam_frontend) | [Demo](https://splashglam.herokuapp.com/)
+#### SplashGlam | Dec 2020 | [Repo](https://github.com/tolentinoel/splashglam_frontend) | [App hosted here](https://splashglam.herokuapp.com/)
 
 An app that lets users browse through all skincare products. The products are filtered based on skin
 concerns. A user can also create a list and add bookmarked products to that list. Utilized ParseHub to scrape data from Soko Glam as product data on the app. Runs on PostgreSQL database, built with JWT for user authentication, Active Model serializer, and Ruby on rails backend with React, React-router, CSS, and Bootstrap for frontend.
 
 
-#### Flip! | Nov 2020 | [Repo](https://github.com/tolentinoel/flip) | [Demo](https://tolentinoel.github.io/flip/)
+#### Flip! | Nov 2020 | [Repo](https://github.com/tolentinoel/flip) | [App hosted here](https://tolentinoel.github.io/flip/)
 
 A memory game application that contains 3 difficulty levels and 3 themes for the user to choose from. Utilized Rick and Morty API, IconFinder API, and Font Awesome icons for card icons on the themed boards. Running on SQLite3 database, Ruby on rails backend with JavaScript, HTML, CSS, and Bootstrap for frontend.
 
 
-#### Makegotchi | Nov 2020 | [Repo](https://github.com/nnhk23/makegotchi-frontend) | [Demo](https://makegotchi.herokuapp.com/)
+#### Makegotchi | Nov 2020 | [Repo](https://github.com/nnhk23/makegotchi-frontend) | [App hosted here](https://makegotchi.herokuapp.com/)
 
 A game application that enables the user to adopt a selection of Tamagotchis (virtual pet) and interact with them by feeding, cleaning, tucking them into bed. Utilized PostgreSQL database, built with JWT for user authentication, Active Model serializer, and Ruby on rails backend with React, React-router, CSS, and Bootstrap for frontend. The app is a collaboration project with 3 other software developers from Flatiron School.
 
