@@ -10,7 +10,7 @@ Having that design and hospitality background, I find Software Engineering inter
 
 - 😄 Pronouns: She/They
 
-- 📫 **How to reach me:**
+- 📫 **How to reach me:** </br>
 <a href="https://codepen.io/tolentinoel" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/> </a>
 
 <a href="mailto:tolentino.el@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
