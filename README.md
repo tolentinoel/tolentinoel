@@ -11,7 +11,7 @@ Having that design and hospitality background, I find Software Engineering inter
 - 😄 Pronouns: She/They
 
 - 📫 **How to reach me:**
-[CodePen](https://codepen.io/tolentinoel)<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"><a href="https://codepen.io/tolentinoel" target="blank"> </a></img>
 ![tolentino.el@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
 ![https://github.com/tolentinoel](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![https://codepen.io/tolentinoel](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
