@@ -12,10 +12,14 @@ Having that design and hospitality background, I find Software Engineering inter
 
 - 📫 **How to reach me:**
 <a href="https://codepen.io/tolentinoel" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/> </a>
-![tolentino.el@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-![https://github.com/tolentinoel](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![https://codepen.io/tolentinoel](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![https://www.linkedin.com/in/ellainet/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+<a href="mailto:tolentino.el@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+<a href="https://www.linkedin.com/in/ellainet/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+<a href="https://dev.to/tolentinoel" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/> </a>
+
+<a href="https://github.com/tolentinoel" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 
 
@@ -37,8 +41,9 @@ A memory game application that contains 3 difficulty levels and 3 themes for the
 A game application that enables the user to adopt a selection of Tamagotchis (virtual pet) and interact with them by feeding, cleaning, tucking them into bed. Utilized PostgreSQL database, built with JWT for user authentication, Active Model serializer, and Ruby on rails backend with React, React-router, CSS, and Bootstrap for frontend. The app is a collaboration project with 3 other software developers from Flatiron School.
 
 **Other creators**
-[Kim Nguyen (she/her) 🏳️‍🌈](https://www.linkedin.com/in/kim-nguyen-0623/)
+[Kim Nguyen (she/her) 🏳️‍🌈](https://www.linkedin.com/in/kim-nguyen-0623/) | 
 [Alexa Gamil 🏳️‍🌈](https://www.linkedin.com/in/alexagamil/)
+| 
 [Marisa You](https://www.linkedin.com/in/marisa-you-5a7380b1/)
 
 #### FootballFanatic | [Repo](https://github.com/tolentinoel/footballFanatic) | [Demo](https://youtu.be/Br5ldoKAH4Q)
