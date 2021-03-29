@@ -11,6 +11,7 @@ Having that design and hospitality background, I find Software Engineering inter
 - 😄 Pronouns: She/They
 
 - 📫 **How to reach me:** </br>
+<div>
 <a href="https://codepen.io/tolentinoel" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/> </a>
 
 <a href="mailto:tolentino.el@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
@@ -20,6 +21,8 @@ Having that design and hospitality background, I find Software Engineering inter
 <a href="https://dev.to/tolentinoel" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/> </a>
 
 <a href="https://github.com/tolentinoel" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a>
+</div>
+
 
 
 
