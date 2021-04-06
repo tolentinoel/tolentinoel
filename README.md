@@ -1,6 +1,6 @@
 # Mabuhay! Welcome to my page! 👋
 <div>
-    <img src='images/banner_brown.png' alt="banner"></img>
+    <img src='images/Github_banner.png' alt="banner"></img>
 </div>
 My name is Ellaine. (Yes, it's Elaine with 2 L's 😄). I am a Full stack Software Engineer based from Silicon Valley with a Bachelor of Science in Interior Design degree from the [University of Santo Tomas (Philippines)](http://www.ust.edu.ph/academics/programs/bachelor-of-science-in-interior-design/) and more than 8 years of hospitality experience.
 
