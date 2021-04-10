@@ -26,9 +26,9 @@ Having that design and hospitality background, I find Software Engineering inter
 
 <span>
 
-![Ellaine's github stats](https://github-readme-stats.vercel.app/api?username=tolentinoel&theme=blue-green)
+![Ellaine's github stats](https://github-readme-stats.vercel.app/api?username=tolentinoel&theme=merko)
 
-![Ellaine's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tolentinoel&theme=blue-green)
+![Ellaine's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tolentinoel&layout=compact&theme=merko)
 
 </span>
 
