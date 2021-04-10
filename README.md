@@ -24,6 +24,14 @@ Having that design and hospitality background, I find Software Engineering inter
     
 </span>
 
+<span>
+
+![Ellaine's github stats](https://github-readme-stats.vercel.app/api?username=tolentinoel&theme=blue-green)
+
+![Ellaine's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tolentinoel&theme=blue-green)
+
+</span>
+
 ## Projects
 
 ### SplashGlam | Dec 2020 | [Repo](https://github.com/tolentinoel/splashglam_frontend) | [App hosted here](https://splashglam.herokuapp.com/)
