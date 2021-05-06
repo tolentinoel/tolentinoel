@@ -26,13 +26,15 @@ Having that design and hospitality background, I find Software Engineering inter
 
 <span>
 
-![Ellaine's github stats](https://github-readme-stats.vercel.app/api?username=tolentinoel&theme=merko)
+![Ellaine's github stats](https://github-readme-stats.vercel.app/api?username=tolentinoel&theme=merko&layout=compact)
 
 ![Ellaine's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tolentinoel&layout=compact&theme=merko)
 
 </span>
 
 ## Projects
+
+### Portfolio | May 2021 | [ellaine.dev](https://ellaine.dev/)
 
 ### SplashGlam | Dec 2020 | [Repo](https://github.com/tolentinoel/splashglam_frontend) | [App hosted here](https://splashglam.herokuapp.com/)
 
@@ -56,7 +58,7 @@ A game application that enables the user to adopt a selection of Tamagotchis (vi
 | 
 [Marisa You](https://www.linkedin.com/in/marisa-you-5a7380b1/)
 
-#### FootballFanatic | [Repo](https://github.com/tolentinoel/footballFanatic) | [Demo](https://youtu.be/Br5ldoKAH4Q)
+### FootballFanatic | [Repo](https://github.com/tolentinoel/footballFanatic) | [Demo](https://youtu.be/Br5ldoKAH4Q)
 
 A CLI app that displays events or games that can be found through city name, date, team/performer name, or stadium name. The beta version of this app was built by myself and [Stephen Ibañez](http://www.stephenibanez.xyz/) during our phase 1 project week at Flatiron School.
 
