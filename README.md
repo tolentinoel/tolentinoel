@@ -72,18 +72,16 @@ A game application that enables the user to adopt from a selection of Tamagotchi
 ● Built with mini games for users to enjoy and potentially earn or stake coins. The coins can then be used to purchase additional pets.<br/>
 ● Deployed with PostgreSQL database, JWT for user authentication, Active Model serializer and Ruby on Rails backend with React, React-router, CSS and Bootstrap for frontend.
 
-**Other creators**
-[Kim Nguyen (she/her) 🏳️‍🌈](https://www.linkedin.com/in/kim-nguyen-0623/)
-| 
-[Alexa Gamil 🏳️‍🌈](https://www.linkedin.com/in/alexagamil/)
-| 
-[Marisa You](https://www.linkedin.com/in/marisa-you-5a7380b1/)
+**Other creators:**
+    -[Kim Nguyen (she/her) 🏳️‍🌈](https://www.linkedin.com/in/kim-nguyen-0623/)
+    -[Alexa Gamil 🏳️‍🌈](https://www.linkedin.com/in/alexagamil/)
+    -[Marisa You](https://www.linkedin.com/in/marisa-you-5a7380b1/)
 
 ### FootballFanatic | [Repo](https://github.com/tolentinoel/footballFanatic) | [Demo](https://youtu.be/Br5ldoKAH4Q)
 
 A CLI app that displays events or games that can be found through city name, date, team/performer name, or stadium name. The beta version of this app was built by myself and [Stephen Ibañez](http://www.stephenibanez.xyz/) during our phase 1 project week at Flatiron School.
 
-### Skills/Frameworks
+## Skills/Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
