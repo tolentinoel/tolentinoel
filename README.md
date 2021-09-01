@@ -37,6 +37,7 @@ Having that design and hospitality background, I find Software Engineering inter
 ### Sucia Charters | July 2021 | [suciacharters.com](https://suciacharters.com/)
 Fully redesigned website for a local charter tour business based from Seattle.
 <br/>
+
 ● Built with HTML/CSS and is now powered by React, JavaScript, custom CSS and React-Bootstrap.<br/>
 ● Developed interactive frontend for visualization, configuration and execution<br/>
 ● Utilized EmailJS for Contact form function & InstafeedJS for embedding client's Instagram feed in the UI.<br/>
@@ -48,6 +49,7 @@ Powered by ReactJS and is hosted through Netlify.
 ### SplashGlam | Dec 2020 | [Repo](https://github.com/tolentinoel/splashglam_frontend) | [App hosted here](https://splashglam.herokuapp.com/)
 
 Allows users to browse through all skincare products. The products are filtered based on skin concern. A user can also create a list and add bookmarked products on that list.<br/>
+
 ● Utilized ParseHub to scrape data from Soko Glam as product data on the app.<br/>
 ● Allows the user to toggle day and night mode by toggling it from localStorage.<br/>
 ● Runs on PostgreSQL database, built with JWT for user authentication, Active Model serializer and Ruby on Rails backend. React, custom CSS and some Bootstrap for frontend.<br/>
@@ -56,6 +58,7 @@ Allows users to browse through all skincare products. The products are filtered 
 ### Flip! | Nov 2020 | [Repo](https://github.com/tolentinoel/flip) | [App hosted here](https://tolentinoel.github.io/flip/)
 
 A memory game application that contains 3 difficulty levels and 3 themes for the user to choose from.<br/>
+
 ● Displays the user’s game history including the difficulty and theme chosen.<br/>
 ● Utilized Rick and Morty API, IconFinder API and Font Awesome icons for card icons on the themed boards.<br/>
 ● Developed with SQLite3 database, Ruby on Rails backend with JavaScript, HTML, CSS and Bootstrap for frontend.<br/>
@@ -65,6 +68,7 @@ A memory game application that contains 3 difficulty levels and 3 themes for the
 ### Makegotchi | Nov 2020 | [Repo](https://github.com/nnhk23/makegotchi-frontend) | [App hosted here](https://makegotchi.herokuapp.com/)
 
 A game application that enables the user to adopt from a selection of Tamagotchis (virtual pets) and interact with them by feeding, cleaning, and tucking them into bed. Built in collaboration with 3 other software developers from Flatiron School.<br/>
+
 ● Built with mini games for users to enjoy and potentially earn or stake coins. The coins can then be used to purchase additional pets.<br/>
 ● Deployed with PostgreSQL database, JWT for user authentication, Active Model serializer and Ruby on Rails backend with React, React-router, CSS and Bootstrap for frontend.
 
