@@ -55,19 +55,18 @@ Allows users to browse through all skincare products. The products are filtered 
 
 ### Flip! | Nov 2020 | [Repo](https://github.com/tolentinoel/flip) | [App hosted here](https://tolentinoel.github.io/flip/)
 
-A memory game application that contains 3 difficulty levels and 3 themes for the user to choose from.
-● Displays the user’s game history including the difficulty and theme chosen.
-● Utilized Rick and Morty API, IconFinder API and Font Awesome icons for card icons on the themed boards.
-● Developed with SQLite3 database, Ruby on Rails backend with JavaScript, HTML, CSS and Bootstrap for frontend.
+A memory game application that contains 3 difficulty levels and 3 themes for the user to choose from.<br/>
+● Displays the user’s game history including the difficulty and theme chosen.<br/>
+● Utilized Rick and Morty API, IconFinder API and Font Awesome icons for card icons on the themed boards.<br/>
+● Developed with SQLite3 database, Ruby on Rails backend with JavaScript, HTML, CSS and Bootstrap for frontend.<br/>
 ● Applied animations on App logo and gameplay with Animate.style.
 
 
 ### Makegotchi | Nov 2020 | [Repo](https://github.com/nnhk23/makegotchi-frontend) | [App hosted here](https://makegotchi.herokuapp.com/)
 
-A game application that enables the user to adopt from a selection of Tamagotchis (virtual pets) and interact with them by feeding, cleaning, and tucking them into bed. Built in collaboration with 3 other software developers from Flatiron School.
-● Built with mini games for users to enjoy and potentially earn or stake coins. The coins can then be used to purchase additional pets.
-● Deployed with PostgreSQL database, JWT for user authentication, Active Model serializer and Ruby on Rails backend
-with React, React-router, CSS and Bootstrap for frontend.
+A game application that enables the user to adopt from a selection of Tamagotchis (virtual pets) and interact with them by feeding, cleaning, and tucking them into bed. Built in collaboration with 3 other software developers from Flatiron School.<br/>
+● Built with mini games for users to enjoy and potentially earn or stake coins. The coins can then be used to purchase additional pets.<br/>
+● Deployed with PostgreSQL database, JWT for user authentication, Active Model serializer and Ruby on Rails backend with React, React-router, CSS and Bootstrap for frontend.
 
 **Other creators**
 [Kim Nguyen (she/her) 🏳️‍🌈](https://www.linkedin.com/in/kim-nguyen-0623/)
