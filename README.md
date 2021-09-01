@@ -12,7 +12,7 @@ Having that design and hospitality background, I find Software Engineering inter
 
 - 😄 Pronouns: She/They
 
-- 📫 **How to reach me:**
+📫 **How to reach me:**
 </br>
 <span>
     <a href="https://codepen.io/tolentinoel" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=green"/></a>
@@ -73,9 +73,9 @@ A game application that enables the user to adopt from a selection of Tamagotchi
 ● Deployed with PostgreSQL database, JWT for user authentication, Active Model serializer and Ruby on Rails backend with React, React-router, CSS and Bootstrap for frontend.
 
 **Other creators:**
-    -[Kim Nguyen (she/her) 🏳️‍🌈](https://www.linkedin.com/in/kim-nguyen-0623/)
-    -[Alexa Gamil 🏳️‍🌈](https://www.linkedin.com/in/alexagamil/)
-    -[Marisa You](https://www.linkedin.com/in/marisa-you-5a7380b1/)
+    - [Kim Nguyen (she/her) 🏳️‍🌈](https://www.linkedin.com/in/kim-nguyen-0623/)
+    - [Alexa Gamil 🏳️‍🌈](https://www.linkedin.com/in/alexagamil/)
+    - [Marisa You](https://www.linkedin.com/in/marisa-you-5a7380b1/)
 
 ### FootballFanatic | [Repo](https://github.com/tolentinoel/footballFanatic) | [Demo](https://youtu.be/Br5ldoKAH4Q)
 
