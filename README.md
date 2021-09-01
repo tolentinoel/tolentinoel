@@ -6,8 +6,8 @@ My name is Ellaine. (Yes, it's Elaine with 2 L's 😄). I am a Full stack Softwa
 
 Having that design and hospitality background, I find Software Engineering interesting because it aligns with user experience and creativity. I love building and seeing projects come to life. Front-end Development is my fave! I am looking forward in producing creative and interesting products that will serve as a great contribution to the community.
 
-- 🔭 I’m currently working on my portfolio.
-- 🌱 I’m trying to learn more about ReactJS, Data structures, and responsive web design.
+- 🔭 I’m currently working on building more projects & using more libraries!
+- 🌱 I’m trying to learn more about other front-end libraries, CSS frameworks, and practicing more algorithms.
 - :bulb: Fun fact: I am a percussion aficionado, but my most favorite instruments are drums 🥁 and :guitar:.
 
 - 😄 Pronouns: She/They
@@ -34,22 +34,38 @@ Having that design and hospitality background, I find Software Engineering inter
 
 ## Projects
 
+### Sucia Charters | July 2021 | [suciacharters.com](https://suciacharters.com/)
+Fully redesigned website for a local charter tour business based from Seattle.
+● Built with HTML/CSS and is now powered by React, JavaScript, custom CSS and React-Bootstrap.
+● Developed interactive frontend for visualization, configuration and execution
+● Utilized EmailJS for Contact form function & InstafeedJS for embedding client's Instagram feed in the UI.
+● Deployed pages through HostGator
 ### Portfolio | May 2021 | [ellaine.dev](https://ellaine.dev/)
 
 ### SplashGlam | Dec 2020 | [Repo](https://github.com/tolentinoel/splashglam_frontend) | [App hosted here](https://splashglam.herokuapp.com/)
 
-An app that lets users browse through all skincare products. The products are filtered based on skin
-concerns. A user can also create a list and add bookmarked products to that list. Utilized ParseHub to scrape data from Soko Glam as product data on the app. Runs on PostgreSQL database, built with JWT for user authentication, Active Model serializer, and Ruby on rails backend with React, React-router, CSS, and Bootstrap for frontend.
+Allows users to browse through all skincare products. The products are filtered based on skin concern. A user can also create a list and add bookmarked products on that list.
+● Utilized ParseHub to scrape data from Soko Glam as product data on the app.
+● Allows the user to toggle day and night mode by toggling it from localStorage.
+● Runs on PostgreSQL database, built with JWT for user authentication, Active Model serializer and Ruby on rails
+backend. React, custom CSS and some Bootstrap for frontend.
 
 
 ### Flip! | Nov 2020 | [Repo](https://github.com/tolentinoel/flip) | [App hosted here](https://tolentinoel.github.io/flip/)
 
-A memory game application that contains 3 difficulty levels and 3 themes for the user to choose from. Utilized Rick and Morty API, IconFinder API, and Font Awesome icons for card icons on the themed boards. Running on SQLite3 database, Ruby on rails backend with JavaScript, HTML, CSS, and Bootstrap for frontend.
+A memory game application that contains 3 difficulty levels and 3 themes for the user to choose from.
+● Displays the user’s game history including the difficulty and theme chosen.
+● Utilized Rick and Morty API, IconFinder API and Font Awesome icons for card icons on the themed boards.
+● Developed with SQLite3 database, Ruby on Rails backend with JavaScript, HTML, CSS and Bootstrap for frontend.
+● Applied animations on App logo and gameplay with Animate.style.
 
 
 ### Makegotchi | Nov 2020 | [Repo](https://github.com/nnhk23/makegotchi-frontend) | [App hosted here](https://makegotchi.herokuapp.com/)
 
-A game application that enables the user to adopt a selection of Tamagotchis (virtual pet) and interact with them by feeding, cleaning, tucking them into bed. Utilized PostgreSQL database, built with JWT for user authentication, Active Model serializer, and Ruby on rails backend with React, React-router, CSS, and Bootstrap for frontend. The app is a collaboration project with 3 other software developers from Flatiron School.
+A game application that enables the user to adopt from a selection of Tamagotchis (virtual pets) and interact with them by feeding, cleaning, and tucking them into bed. Built in collaboration with 3 other software developers from Flatiron School.
+● Built with mini games for users to enjoy and potentially earn or stake coins. The coins can then be used to purchase additional pets.
+● Deployed with PostgreSQL database, JWT for user authentication, Active Model serializer and Ruby on Rails backend
+with React, React-router, CSS and Bootstrap for frontend.
 
 **Other creators**
 [Kim Nguyen (she/her) 🏳️‍🌈](https://www.linkedin.com/in/kim-nguyen-0623/)
