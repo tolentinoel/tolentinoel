@@ -34,6 +34,14 @@ Having that design and hospitality background, I find Software Engineering inter
 
 ## Projects
 
+### Horoscope Generator | Sep 2021 | [App hosted here](https://horoscope-gen.herokuapp.com/)
+Know your horoscope advice for the week plus your lucky color using this web app!
+<br/>
+
+● Powered by React, JavaScript, custom CSS and React-Bootstrap.<br/>
+● Utilized Color API, Devbrewer-Horoscope(from RapidAPI), color generator script & a tarot color chart to provide the most genuine data fitting for each zodiac.<br/>
+● Deployed pages through Heroku<br/>
+
 ### Sucia Charters | July 2021 | [suciacharters.com](https://suciacharters.com/)
 Fully redesigned website for a local charter tour business based from Seattle.
 <br/>
