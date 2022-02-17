@@ -2,15 +2,13 @@
 <img src='images/Mabuhay_gif.gif' alt="banner mabuhay"></img>
 <img src='images/Github_banner.png' alt="banner"></img>
 
-My name is Ellaine. (Yes, it's Elaine with 2 L's 😄). I am a Full stack Software Engineer based from Silicon Valley with a Bachelor of Science in Interior Design degree from the [University of Santo Tomas (Philippines)](http://www.ust.edu.ph/academics/programs/bachelor-of-science-in-interior-design/) and more than 8 years of hospitality experience.
+My name is Ellaine. (Yes, it's Elaine with 2 L's 😄). I am a Full stack Software Engineer based from Silicon Valley with a Bachelor of Science in Interior Design degree from the [University of Santo Tomas (Philippines)](http://www.ust.edu.ph/academics/programs/bachelor-of-science-in-interior-design/) and more than 8 years of hospitality experience. I love building and seeing projects come to life. Front-end Development is my fave! I am currently with Microsoft Leap as one of their Software Engineer Apprentice this year of.
 
-Having that design and hospitality background, I find Software Engineering interesting because it aligns with user experience and creativity. I love building and seeing projects come to life. Front-end Development is my fave! I am looking forward in producing creative and interesting products that will serve as a great contribution to the community.
-
-- 🔭 I’m currently working on building more projects & using more libraries!
-- 🌱 I’m trying to learn more about other front-end libraries, CSS frameworks, and practicing more algorithms.
-- :bulb: Fun fact: I am a percussion aficionado, but my most favorite instruments are drums 🥁 and :guitar:.
 
 - 😄 Pronouns: She/They
+- 🌱 With the nature of the apprenticeship I'm in, I am currently studying C#.
+- :bulb: Fun fact: I am a percussion aficionado, but my most favorite instruments are drums 🥁 and :guitar:.
+
 
 📫 **How to reach me:**
 </br>
