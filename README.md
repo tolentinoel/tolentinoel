@@ -2,7 +2,7 @@
 <img src='images/Mabuhay_gif.gif' alt="banner mabuhay"></img>
 <img src='images/Github_banner.png' alt="banner"></img>
 
-My name is Ellaine. (Yes, it's Elaine with 2 L's 😄). I am a Full stack Software Engineer based from Silicon Valley with a Bachelor of Science in Interior Design degree from the [University of Santo Tomas (Philippines)](http://www.ust.edu.ph/academics/programs/bachelor-of-science-in-interior-design/) and more than 8 years of hospitality experience. I love building and seeing projects come to life. Front-end Development is my fave! I am currently with Microsoft Leap as one of their Software Engineer Apprentice this year of.
+My name is Ellaine. (Yes, it's Elaine with 2 L's 😄). I am a Full stack Software Engineer based from Silicon Valley with a Bachelor of Science in Interior Design degree from the [University of Santo Tomas (Philippines)](http://www.ust.edu.ph/academics/programs/bachelor-of-science-in-interior-design/) and more than 8 years of hospitality experience. I love building and seeing projects come to life. Front-end Development is my fave! I am currently with Microsoft Leap as one of their Software Engineer Apprentice as of Feb 2022.
 
 
 - 😄 Pronouns: She/They
@@ -31,6 +31,15 @@ My name is Ellaine. (Yes, it's Elaine with 2 L's 😄). I am a Full stack Softwa
 </span>
 
 ## Projects
+
+### ClackTime | Oct 2021 | [Repo](https://github.com/tolentinoel/clackTime)
+Still in progress..
+<br/>
+
+● Powered by React, JavaScript.<br/>
+● Utilized BaconIpsum API to generate random ipsum texts to be typed.<br/>
+
+
 
 ### Horoscope Generator | Sep 2021 | [App hosted here](https://horoscope-gen.herokuapp.com/)
 Know your horoscope advice for the week plus your lucky color using this web app!
