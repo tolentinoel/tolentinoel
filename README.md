@@ -4,8 +4,8 @@
 My name is Ellaine. (Yes, it's Elaine with 2 L's 😄). I am a Full stack Software Engineer based from Silicon Valley with a Bachelor of Science in Interior Design degree from the [University of Santo Tomas (Philippines)](https://www.ust.edu.ph/academics/programs/bachelor-of-science-in-interior-design/) and more than 8 years of hospitality experience. I love building and seeing projects come to life. Front-end Development is my fave! Currently just completed a fully remote apprenticeship program with Microsoft Leap and now transitioning to be a full-time Software Engineer at Microsoft in Redmond,WA.
 
 😄 **Pronouns**: She/They<br/>
-🌱 **Learning**: Currently sharpening my JavaScript, TypeScript and React skills.<br/>
-💡 **Fun fact**: I am a percussion aficionado, but my most favorite instruments are drums 🥁 and guitar🎸.
+🌱 **Learning**: Currently sharpening my JavaScript, TypeScript and React skills. Practicing said skills by building a small project called [Taskies](https://github.com/tolentinoel/Typescript_taskies) -- a to-do list app built from Typescript!<br/>
+💡 **Fun fact**: I am a percussion aficionado, my most favorite instruments are the drums 🥁 and acoustic guitar.
 
 
 ## How to reach me 📫:
@@ -47,8 +47,18 @@ My name is Ellaine. (Yes, it's Elaine with 2 L's 😄). I am a Full stack Softwa
 
 # Projects
 
+### Taskies | July 2022 | [Repo](https://github.com/tolentinoel/Typescript_taskies)
+_Work in progress.._
+<br/>
+
+* Powered by React, Typescript.<br/>
+* This project is based off of Roadside Coder's Typescript tutorial from FreeCodeCamp.org.
+* This is a to-do list app that has button animations, draggable elements that were built using built-in React hooks and custom CSS
+* Users can add tasks, delete and edit said tasks as well as cross them out once done.
+<br/>
+
 ### ClackTime | Oct 2021 | [Repo](https://github.com/tolentinoel/clackTime)
-Still in progress..
+_Still a work in progress.._
 <br/>
 
 * Powered by React, JavaScript.<br/>
