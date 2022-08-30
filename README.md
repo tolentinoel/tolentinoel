@@ -1,7 +1,7 @@
 <!-- # Mabuhay! Welcome to my page! 👋 -->
 <img src='images/Mabuhay_gif.gif' alt="banner mabuhay"></img>
 
-My name is Ellaine. (Yes, it's Elaine with 2 L's 😄). I am a Full stack Software Engineer based from Silicon Valley with a Bachelor of Science in Interior Design degree from the [University of Santo Tomas (Philippines)](https://www.ust.edu.ph/academics/programs/bachelor-of-science-in-interior-design/) and more than 8 years of hospitality experience. I love building and seeing projects come to life. Front-end Development is my fave! Currently just completed a fully remote apprenticeship program with Microsoft Leap and now transitioning to be a full-time Software Engineer at Microsoft in Redmond,WA.
+My name is Ellaine. (Yes, it's Elaine with 2 L's 😄). I am a Full stack Software Engineer based from Silicon Valley with a Bachelor of Science in Interior Design degree from the [University of Santo Tomas (Philippines)](https://www.ust.edu.ph/academics/programs/bachelor-of-science-in-interior-design/) and more than 8 years of hospitality experience. I love building and seeing projects come to life. Front-end Development is my fave! Currently just completed a fully remote apprenticeship program with Microsoft Leap and now transitioned as a full-time Software Engineer at Microsoft.
 
 😄 **Pronouns**: She/They<br/>
 🌱 **Learning**: Currently sharpening my JavaScript, TypeScript and React skills. Practicing said skills by building a small project called [Taskies](https://github.com/tolentinoel/Typescript_taskies) -- a to-do list app built from Typescript!<br/>
